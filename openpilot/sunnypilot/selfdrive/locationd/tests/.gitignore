@@ -1,0 +1,5 @@
+out/
+test_locationd_gps_input_safety
+*.o
+locationd_ut*
+live_kf_ut*
